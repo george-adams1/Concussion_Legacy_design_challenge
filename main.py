@@ -1,6 +1,6 @@
 """
 Script for DesignChallenge Activity #1
-Selwyn House School team George Adams, Matthew Homa, Dylan Lee
+Selwyn House School team George Adamopoulos, Matthew Homa, Dylan Lee
 Telegram: @george_adams1
 
 Description: Motion Tracking used to design evaluation biometric software
